@@ -1,5 +1,5 @@
 # k-means
- k-means
+
 In This project we are going to use K-Means clustering. This will help us segment credit card customers based on how they use their cards. We do not have a target label for customer groups in our dataset. That is why this is a learning problem.
 
 We will be working with the CC_GENERAL.csv dataset.
